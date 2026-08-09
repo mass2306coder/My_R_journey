@@ -2,8 +2,7 @@
 # R Learning - Day 08
 # Reading CSV and Data Exploration
 # Author: Masha Srinivasan
-# ==========================================
-
+# =========================================
 # Read CSV file
 students <- read.csv("students.csv")
 
